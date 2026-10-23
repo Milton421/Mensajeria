@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Local database credentials
+src/main/resources/db.properties
+
+# NetBeans local settings
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build/
+!src/main/**/build/

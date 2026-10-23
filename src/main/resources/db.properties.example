@@ -1,0 +1,5 @@
+# Copie este archivo como db.properties y complete sus datos locales.
+# Oracle XE 21c: servicio XEPDB1 | Oracle XE 11g: jdbc:oracle:thin:@localhost:1521:XE
+db.url=jdbc:oracle:thin:@//localhost:1521/XEPDB1
+db.user=MENSAJERIA
+db.password=CAMBIAR_ESTA_CLAVE
